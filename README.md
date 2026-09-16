@@ -11,7 +11,7 @@ Student-facing, illustrated instructions for comparing hydrogel samples in vineg
 
 ## Before class
 
-Each group uses three Petri dishes labeled ACIDIC, NEUTRAL, and BASIC, plus one shared, unlabeled spoon. Remove gel, rinse the spoon with DI water, and drain it before moving between dishes. The instructor must confirm dish capacity. Each sample receives 90 mL of liquid, with extra room needed for stirring. Petri dishes are not assumed to be large enough. The guide preserves the provided recipe: 0.50 g hydrogel powder + 40 mL DI water per sample, then 50 mL test solution; 10 stirs; five-minute observation time per sample.
+Each group uses three Petri dishes labeled ACIDIC, NEUTRAL, and BASIC, plus one shared, unlabeled spoon. Scrape and wipe visible gel into the regular trash can; then rinse equipment in the sink. Rinse the spoon with DI water and drain it before moving between dishes. Students proceed through the preparation and testing steps without routine instructor approval checkpoints. The guide preserves the provided recipe: 0.50 g hydrogel powder + 40 mL DI water per sample, then 50 mL test solution; 10 stirs; five-minute observation time per sample.
 
 The station image is an educational illustration generated with OpenAI's built-in image generation tool, not a photograph or experimental result. Brief: three empty shallow Petri dishes labeled ACIDIC, NEUTRAL, and BASIC, alongside goggles, exactly one unlabeled spoon, and a graduated cylinder; white background and navy scientific textbook outlines; no predicted differences between conditions.
 
