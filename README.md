@@ -1,20 +1,20 @@
 # Hydrogel student guide
 
-Student-facing, illustrated instructions for comparing hydrogel samples in vinegar, DI water, and baking-soda solution across three trials.
+Student-facing ENCH 1000 instructions for testing how temperature, acidic conditions, and basic conditions affect a hydrogel. The existing website and printed QR code open the current printable guide directly.
 
 **Website:** https://calebkouvarakis.github.io/hydrogel-student-guide/
 
 The printable QR sign uses UTC's university wordmark and navy (#112E51) and gold (#FDB736) palette from the [UTC brand resources](https://www.utc.edu/communications-and-marketing/creative-and-marketing-services/brand-basics). The logo and QR code are vector artwork for sharp printing on US Letter paper.
 
-- `index.html`: mobile-friendly student guide
-- `Hydrogel_Student_Guide.pdf`: six-page printable instructions and results worksheet
+- `index.html`: redirects existing QR scans to the current printable guide
+- `Hydrogel_Student_Guide.pdf`: three-page student manual and individual results worksheet
 - `Hydrogel_Lab_QR_Sign.pdf`: one-page station sign
 - `Hydrogel_Lab_QR.png`: QR code for the website
 
 ## Before class
 
-Each group uses three clear 16 fl oz sample cups labeled ACIDIC, NEUTRAL, and BASIC, and one separate BASIC STOCK beaker (250 mL or larger). One shared, unlabeled spoon is used for stirring. Use the supplied 0.5 g powder scoop, kept dry, to measure one level scoop per sample; nine scoops are needed per group. Mix the existing 1.5 g baking-soda packet with 150 mL DI water in the stock beaker. Measure all liquids with the graduated cylinder. Reuse the sample cups between trials. Ten groups use thirty cups and ten beakers, leaving twenty spare cups from the available fifty. Scrape and wipe visible gel into the regular trash can; then rinse equipment in the sink. Rinse the spoon with DI water and drain it before moving between cups. Students proceed through the preparation and testing steps without routine instructor approval checkpoints. The guide preserves the provided recipe: 0.50 g hydrogel powder + 40 mL DI water per sample, then 50 mL test solution; 10 stirs; five-minute observation time per sample.
+Use the materials list and procedure in the current `Hydrogel_Student_Guide.pdf`. Each team tests one variable at three conditions. The packet contains the overview and safety information, procedure, and results worksheet. Measure the test liquid's temperature or pH before adding it to the hydrogel.
 
-The station image is an educational illustration generated with OpenAI's built-in image generation tool, not a photograph or experimental result. Brief: three empty clear 16 fl oz cups labeled ACIDIC, NEUTRAL, and BASIC plus a separate empty glass beaker labeled BASIC STOCK; goggles, exactly one unlabeled stirring spoon, and a graduated cylinder; white background and navy scientific textbook outlines; no predicted differences between conditions. Saved project asset: `station-cups-beaker.png`. Earlier illustrations are retained but are no longer displayed.
+Earlier station illustrations are retained as historical assets and are no longer displayed. They depict a previous version of the activity; use the current PDF for instructions.
 
-No accounts, analytics, external scripts, or student data collection. Updated 17 September 2026.
+No accounts, analytics, external scripts, or student data collection. Updated 23 September 2026.
